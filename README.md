@@ -1,4 +1,10 @@
-# app-final-practice
+# PROYECTO FINAL MODULO 6 
+
+### app-final-practice
+```
+ Integrante: Sergio Omar Sandy Cordova
+```
+Proyecto realizado con tailwindcss y vue 3, con json-server instalado de manera global no en el proyecto
 
 ## Project setup
 ```
@@ -10,14 +16,14 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Installation json server
 ```
-npm run build
+npm install -g json-server
 ```
 
-### Lints and fixes files
+## Json server running
 ```
-npm run lint
+json-server --watch db.json
 ```
 
 ### Customize configuration

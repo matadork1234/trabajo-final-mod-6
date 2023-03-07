@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Smarthphone",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Portatil",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Computadora",
+      "isActive": true
+    },
+    {
+      "name": "Categoria agregada",
+      "isActive": false,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nameProduct": "iPhone 9",
+      "descriptionProduct": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "stock": 100,
+      "imageUrl": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+      "rating": 4.69,
+      "categoryId": 1
+    },
+    {
+      "nameProduct": "Samsung Universe 9",
+      "descriptionProduct": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "stock": 351,
+      "imageUrl": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+      "rating": 4,
+      "categoryId": 1,
+      "id": 2
+    },
+    {
+      "nameProduct": "iPhone X",
+      "descriptionProduct": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with",
+      "price": 899,
+      "stock": 17.94,
+      "imageUrl": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "rating": 4.44,
+      "categoryId": 1,
+      "id": 3
+    },
+    {
+      "nameProduct": "MacBook Pro",
+      "descriptionProduct": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "stock": 83,
+      "imageUrl": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+      "rating": 4.57,
+      "categoryId": 2,
+      "id": 4
+    }
+  ]
+}
