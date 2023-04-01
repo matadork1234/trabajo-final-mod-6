@@ -1,5 +1,13 @@
 # PROYECTO FINAL MODULO 6 
 
+### Ejecucion de docker
+Se dockerizo el proyecto de vue para que corra en cualquier instancia con nginx en el puerto 5000 y para correr el mismo debera ejecutar el siguiente comando
+
+```
+    docker-compose up -d
+```
+
+
 ### app-final-practice
 ```
  Integrante: Sergio Omar Sandy Cordova
